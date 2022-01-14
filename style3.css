@@ -16,9 +16,11 @@
     
 }
 .small{
-    color: cyan;
+    color: lawngreen;
 }
 p{
     color: rgb(99, 247, 136);
     text-align: justify;
+    font-size: medium;
+    
 }
